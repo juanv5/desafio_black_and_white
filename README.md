@@ -1,4 +1,4 @@
-# desafio_black_and_white
+# Desafio_Black_and_White
 
 ## Descripción proyecto
 Proyecto que le permite a la empresa Black and White SPA (empresa ficticia para los efectos del desafio) crear un sitio web que permita escribir la URL de una imagen de internet y que sea procesada por el servidor para ser devuelta en blanco y negro. Se crea un servidor que disponibiliza una ruta raíz que devuelva un HTML con el
